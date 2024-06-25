@@ -4,4 +4,5 @@
 - Métodos de manipulação de elementos no DOM, como estilos CSS, imagens e textos;
 - Alteração de tributos e classes de forma dinâmica com JS;
 - Criação de eventos de interação com o usuário
+- Link no Vercel: https://lnkd.in/dDerMfE6
 <img src="https://github.com/adrianomatos/frontend_javascript_alura_fokus/blob/main/FOKUS.png" alt="Print do Projeto">
